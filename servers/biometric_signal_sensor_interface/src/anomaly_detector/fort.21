@@ -1,0 +1,30 @@
+   n  posicion  filebuf
+
+   frecuencia de muestreo = 256
+     posicion en milisegundos
+
+     1            945.
+     2           2031.
+     3           3148.
+     4           4214.
+     5           5312.
+     6           6367.
+     7           7445.
+     8           8492.
+     9           9371.
+    10          10398.
+    11          11351.
+    12          12503.
+    13          13585.
+    14          14628.
+    15          15539.
+    16          16601.
+    17          17507.
+    18          18382.
+    19          19343.
+    20          20164.
+    21          21136.
+    22          22230.
+ RMAX =       1.000   Factor d'escala senyal
+ PA_RMAX =    3276.507   Factor d'escala senyal   passa_alt
+ PB_RMAX =     118.893   Factor d'escala senyal   passa_baix

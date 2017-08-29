@@ -1,0 +1,15 @@
+   n  posicion  hexoski
+
+   frecuencia de muestreo = 256
+     posicion en milisegundos
+
+     1            667.
+     2           1468.
+     3           2066.
+     4           2761.
+     5           3781.
+     6           4679.
+     7           5531.
+ RMAX =       1.000   Factor d'escala senyal
+ PA_RMAX =    5135.571   Factor d'escala senyal   passa_alt
+ PB_RMAX =     132.831   Factor d'escala senyal   passa_baix

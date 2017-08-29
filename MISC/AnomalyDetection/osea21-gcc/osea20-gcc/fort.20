@@ -1,0 +1,14 @@
+   n  posicion pa  intervalo  valor    posicion mw  intervalo   valor       retar  n    posi-qrs  paciente = hexoski
+
+   frecuencia de muestreo = 256
+
+     1          179            180       -6.901           188            183        9.169            9        1           171
+     2          359            171       -5.816           371            169       10.000           12        2           376
+     3          530            185      -11.538           540            183       10.665           10        3           529
+     4          715            262       -7.740           723            260        9.795            8        4           707
+     5          977            229       -4.054           983            232       11.051            6        5           968
+     6         1206            218       -4.981          1215            218        7.470            9        6          1198
+     7         1424          -1424       -6.582          1433          -1433        9.569            9        7          1416
+ RMAX =       1.000   Factor d'escala senyal
+ PA_RMAX =    5135.571   Factor d'escala senyal    passa_alt
+ PB_RMAX =     132.831   Factor d'escala senyal    passa_baix

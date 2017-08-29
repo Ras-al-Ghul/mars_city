@@ -1,0 +1,18 @@
+status : complete
+dev_id : FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+histograms : []
+end : 383021389529
+firmware_rev : 1.1.3
+soft_uid : HXDEV-AUTO
+device_start : 383021140185
+soft_protocole : 0
+start_date : 2017-05-30T20:32:08+00:00
+metrics : []
+start : 383021140185
+importfile : None
+user : <hexoskin.client.account: 12007>
+last_modified : 2017-05-30T20:51:40+00:00
+device : <hexoskin.client.device: HXSKIN1200007236>
+id : 125383
+data_status : {}
+resource_uri : /api/record/125383/
